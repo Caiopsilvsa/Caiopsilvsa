@@ -1,6 +1,6 @@
 - <h1> I’m Caio Pereira da Silva
 - 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Asp.NetCore
 
 <div>
      <img height= "250em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caiopsilvsa">
