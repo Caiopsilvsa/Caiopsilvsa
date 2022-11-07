@@ -1,6 +1,6 @@
 - <h1> I’m Caio Pereira da Silva
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning Asp.NetCore WebApi
+- 👀 Atualmente estudando desenvolvimento Full-Stack
+- 🌱 Atualmente aprendendo sobre ASP.NET CORE e Angular
 
 <div>
      <img height= "250em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caiopsilvsa">
