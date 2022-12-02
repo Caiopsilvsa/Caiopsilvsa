@@ -10,10 +10,10 @@
    <h3> 🛠 Tech Stack
  <div>
        💻  Front-end:
-       <img align ="center" height = "60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>  
-       <img align ="center" height=  "60cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-       <img align ="center" height = "60em" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>   
-       <img align ="center" height = "60em" src="https://img.icons8.com/color/48/000000/typescript.png"/>   
+       <img align ="center" height = "50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>  
+       <img align ="center" height=  "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+       <img align ="center" height = "50em" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>   
+       <img align ="center" height = "50em" src="https://img.icons8.com/color/48/000000/typescript.png"/>   
   </div>      
          
   <div>
