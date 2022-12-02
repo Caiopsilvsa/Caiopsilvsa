@@ -15,7 +15,8 @@
   <img align ="center"height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />       
 </div> 
  
+💻  Front-end:
+HTML CSS JavaScript TypeScript React React Vue Gatsby GraphQL Jest
 
-
-
-
+⚙️  Back-end e banco de dados:
+Node.js NestJS MongoDB PostgreSQL GraphQL 
