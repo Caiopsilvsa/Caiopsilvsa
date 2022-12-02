@@ -1,6 +1,6 @@
 - <h1> I’m Caio Pereira da Silva
 - 👀 Atualmente estudando desenvolvimento Full-Stack
-- 🌱 Atualmente aprendendo sobre ASP.NET CORE e Angular
+- 🌱 Atualmente aprendendo sobre ASP.NET e Angular
 
 <div>
      <img height= "250em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caiopsilvsa">
