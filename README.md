@@ -1,4 +1,4 @@
-- <h1> I’m Caio Pereira da Silva
+- <h1> Olá, sou o Caio
 - 👀 Atualmente estudando desenvolvimento Full-Stack
 - 🌱 Atualmente aprendendo sobre ASP.NET e Angular
 
