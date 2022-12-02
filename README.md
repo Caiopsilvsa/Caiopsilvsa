@@ -3,8 +3,8 @@
 - 🌱 Atualmente aprendendo sobre ASP.NET e Angular
 
 <div style ="display:inline_block">
-      <img height= "200em"  src = "https://github-readme-stats.vercel.app/api?username=Caiopsilvsa"> 
-     <img height= "200em" align= "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caiopsilvsa">
+      <img height= "250em"  src = "https://github-readme-stats.vercel.app/api?username=Caiopsilvsa"> 
+     <img height= "250em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caiopsilvsa">
      
 </div> 
 
