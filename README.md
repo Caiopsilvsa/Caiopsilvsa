@@ -1,6 +1,5 @@
 - <h1> Olá, sou o Caio
-- 👀 Atualmente estudando desenvolvimento Full-Stack
-- 🌱 Atualmente aprendendo sobre ASP.NET e Angular
+- 👀 Atualmente desenvolvendo projetos em ASP.NET e Angular
 
 <div style ="display:inline_block">
       <img height= "250em"  src = "https://github-readme-stats.vercel.app/api?username=Caiopsilvsa"> 
