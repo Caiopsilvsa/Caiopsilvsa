@@ -1,25 +1,5 @@
 - <h1> Olá, sou o Caio
-- 👀 Atualmente desenvolvendo projetos em ASP.NET e Angular
+- Estudante de análise e desenvolvimento de sistemas
+- Proficiência em desenvolvimento de bugs
+- Atualmente atuando em projetos utilizando: .Net, Mysql, SqlServer, Angular, Azure, Aws
 
-<div style ="display:inline_block">
-      <img height= "250em"  src = "https://github-readme-stats.vercel.app/api?username=Caiopsilvsa"> 
-</div> 
-
-<div style ="display:inline_block"> 
-   <h3> 🛠 Tech Stack
- <div>
-       💻  Front-end:
-       <img align ="center" height = "50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>  
-       <img align ="center" height = "50em" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>   
-       <img align ="center" height = "50em" src="https://img.icons8.com/color/48/000000/typescript.png"/>   
-  </div>      
-         
-  <div>
-       ⚙️  Back-end e banco de dados:
-        <img align ="center"height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-        <img align ="center"height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-        <img align ="center"height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-        <img align ="center"height="70cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-        <img align ="center"height="70cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  </div>             
-</div> 
